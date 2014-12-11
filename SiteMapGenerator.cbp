@@ -41,6 +41,7 @@
 		<Unit filename="link_search.cpp" />
 		<Unit filename="link_search.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
 		<Unit filename="sitegraph.cpp" />
 		<Unit filename="sitegraph.h" />
 		<Unit filename="sitemap.cpp" />
